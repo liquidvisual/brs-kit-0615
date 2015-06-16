@@ -17,6 +17,7 @@ Feel free to also reference the BRS prototype if useful. *(click login button to
 
 
 [Big Red Sky Protoype](http://bigredsky.uat.liquidvisual.net)
+
 [Source Repo](https://github.com/liquidvisual/brs-0115)
 
 This was an early proof-of-concept that had more design and UX involved. For the basic reskin, it's really about just getting the application frame to work, stripping back existing styles and overriding with clean defaults (like Foundation's).
@@ -41,9 +42,9 @@ Include font icons in markup like this:
 
     <i class="fi-home"></i> // Foundation Icons
     <i class="fa fa-home"></i> // Font Awesome
-    
+
 ---
-    
+
 ### Open Sans Font
-    
+
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700">
